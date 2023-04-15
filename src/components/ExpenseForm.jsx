@@ -32,7 +32,7 @@ const ExpenseForm = ({
             name="amount"
             value={amount}
             onChange={handleAmount}
-            placeholder="ff"
+            
           />
         </div>
       </div>
